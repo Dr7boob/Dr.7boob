@@ -1,0 +1,781 @@
+ ______                  _______   __                           __        
+|_   _ `.               |  ___  | [  |                         [  |       
+  | | `. \  _ .--.      |_/  / /   | |.--.     .--.     .--.    | |.--.   
+  | |  | | [ `/'`\]         / /    | '/'`\ \ / .'`\ \ / .'`\ \  | '/'`\ \ 
+ _| |_.' /  | |      _     / /     |  \__/ | | \__. | | \__. |  |  \__/ | 
+|______.'  [___]    (_)   /_/     [__;.__.'   '.__.'   '.__.'  [__;.__.'  
+                                                                          
+-----------------------------------------------------------------------
+
+               Dork SQL Injection All
+
+-----------------------------------------------------------------------
+intitle:"human".php?id= title:education
+intitle:"Publications".php?id= title:login
+intitle:"project".php?id= title:join
+intitle:"trade".php?id= title:orders
+intitle:"commodity".php?id= title:join
+intitle:"promotion".php?id= title:news
+intitle:"center".php?id= title:join
+intitle:"community".php?id= title:join
+intitle:"marketing".php?id= title:join
+intitle:"membership".php?id= title:info
+intitle:"mountaineer".php?id= title:join
+intitle:"bike".php?id= title:payment
+intitle:"management".php?id= title:business
+intitle:"insurance".php?id= title:join
+inurl:business.php?cid= title:join
+intitle:"company".php?id= title:sign in
+intitle:"store".php?id= title:cart
+intitle:"career".php?lang=en title:join
+intitle:"jobs".php?lang=en intext:business
+inurl:client.php?id= title:login
+intitle:"event"product".php?id= title:login
+intitle:"search".php?id= title:login
+inurl:"content"index".php?id= title:login
+intitle:"news"item".php?id= title:login
+intitle:"equipment"buy".php?id= title:login
+intitle:"action"buy".php?id= title:login
+intitle:"action"product".php?id= title:login
+intitle:"store".php?id= title:paypal
+intitle:"home"shipping".php?id= title:login
+inurl:activity.php?id= title:customer
+inurl:market.php?id= title:customer
+intitle:"campaigns".php?id= title:join
+inurl:"store".php?cPath= title:login
+intitle:"bussines"detail".php?id= title:join
+intitle:"projects"view".php?id= title:join
+intitle:"contact"us".php?page_id= title:shop
+intitle:"news"song".php?id= title:login
+inurl:"index".asp?id= title:login
+inurl:newsone.php?cid= title:shop
+inurl:showimg.php?cid= title:shop
+intitle:"guitar".php?id= title:login
+inurl:top10.php?cat= title:paypal
+inurl:study.php?id= title:paypal
+inurl:buy.php?category= title:paypal
+inurl:join.php?id= title:business
+inurl:show_item.php?id= title:paypal
+inurl:store_item.php?id= title:paypal
+inurl:Viewproduct.cfm?id= title:paypal
+inurl:".php?cat="+intext:"Paypal"+site:us
+inurl:search_product.php?id= title:payment
+inurl:shop_product.php?id= title:paypal
+inurl:department.php?id= title:bussiness
+intitle:"clothing".php?id= title:login
+intitle:"grooming".php?id= title:login
+intitle:"Bags".php?id= title:login
+inurl:product.php?cat= title:login
+inurl:client.php?id= title:login
+inurl:article.php?page_id= title:paypal
+inurl:category.php?id= title:login page:2015
+inurl:viewItem.php?id= title:login
+inurl:viewArticles.php?id= title:login
+inurl:job.php?id= title:login
+inurl:people.php?id= title:login
+inurl:php?id= site:fr title:buy
+inurl:Art.php?id= title:login
+inurl:collection.php?id= title:login
+inurl:song.php?id= title:login
+inurl:play.php?id= title:paypal
+inurl:staticpage.php?id= intext:paypal
+inurl:showinfo.php?id= title:paypal
+inurl:library.php?id= title:login
+inurl:interior.php?id= title:login
+inurl:view.php?id= title:login
+inurl:release.php?id= title:login
+inurl:podcast.php?id= title:login
+inurl:news-event.php?id= title:login
+inurl:articles.php?id= title:login page:2015
+inurl:view.php?id= title:login page:2015
+inurl:view_product.php?id= title:login paypal
+inurl:item_list.php?cat_id= title:login
+inurl:.php?cat_id= title:login
+inurl:.php?categoryID= title:login
+inurl:event_info.php?id= title:login
+inurl:product_details.php?product_id= title:login
+inurl:/files/prod_detail.php?lang= title:login
+inurl:apartments.php?id= title:login
+inurl:product_info.php?products_id= title:login
+inurl:"Browse_Item_Details.asp?Store_Id=" title:login
+intext:contact us .php?id= title:login
+intext:gift card .php?id= title:login
+intext:business .php?id= title:login
+intext:"buy"clothing" .php?id= title:login
+intext:"payment" .php?id= title:login
+intext:"crystal" .php?id= title:login
+intext:"styles" .php?id= title:login
+intext:"kids"fashion" .php?id= title:login
+intext:"international"delivery" .php?id= title:login
+intext:"boot"up" .php?id= title:login
+intext:"boot"up" .php?id= title:login
+intext:"international"business" .php?id= title:join
+intext:"magazine" .php?id= title:login
+intext:shipping .php?id= title:login
+intext:2015 .php?id= title:login
+intext:booking .php?id= title:login
+intext:Buy gift certificates .php?id= title:login
+intext:business .php?id= 2015
+intext:news event.php?id= 2015
+intext:delivery item.php?id= 2015
+intext:buy .php?id= title:login site:uk
+intext:business company.php?id= title:login
+intext:business detail.php?id= title:login
+intext:$100 detail.php?cat_id= title:login
+intext:$100 category.php?cat_id= title:login
+intext:size product.php?id= title:login
+intext:about .php?id= title:login
+intext:iron .php?id= title:login
+intext:job .php?id= title:login
+intext:action .php?id= title:login
+intext:Copyright © 2015 .php?id= title:login
+intext:deal .php?id= title:login
+intext:seller .php?id= title:login
+intext:support .php?id= title:login
+intext:jewel .php?id= title:login
+intext:jewelry .php?id= title:login
+intext:goods .php?id= title:login
+intext:drug .php?id= title:login
+intext:milk .php?id= title:login
+intext:everything .php?id= title:login
+inurl:"php=id" +site:.uk intext:paypal
+inurl:content"php=id" +site:.uk intext:paypal
+inurl:Item"php=id" +site:.uk intext:login
+site:uk item.asp?itemid=
+intitle:"store".php?id= title:login
+inurl:"index".php?id= title:login 2015
+intitle:"compay".php?id= title:login
+inurl:productdetail.php?id= title:login 2015
+inurl:staff_id= title:login 2015
+inurl:Services.php?ID= title:login 2015
+inurl:events.php?id= title:login 2015
+inurl:products.php?id= title:login 2015
+inurl:boutique.php?id= title:login 2015
+inurl:article.php?id= title:login 2015
+inurl:social.php?id= title:login 2015
+inurl:catalog.php?cat_id= title:login 2015
+inurl:products.php?cat= title:login 2015
+inurl:show.php?id= title:login 2015
+inurl:content.php?id= title:login 2015
+inurl:main.php?id= title:login 2015
+inurl:".php?id=" intext:"View cart" 2015
+inurl:".php?cid=" intext:"Buy Now" 2015
+inurl:"php?id=" intext:"boutique" title:paypal
+inurl:".php?id=" intext"my account" title:shop
+inurl:".php?id=" intext"hoddies" title:login
+inurl:".php?id=" intext"beauty" title:login
+inurl:".php?id=" intext"perfume" title:login
+inurl:".php?id=" intext"merchandise" title:login
+inurl:"php?id=" intext:"couponcode"
+inurl:"php?id=" intext:"gilets" 2015
+inurl:"php?id=" intext:"capes" 2015
+inurl:"php?id=" intext:"cardigans" title:login 2015
+inurl:"php?id=" intext:"goats" title:login 2015
+inurl:"php?id=" intext:"knitwear" title:login 2015
+inurl:".php?id=" intext:"components" title:login 2015
+inurl:".php?id=" intext:"batteries" title:login 2015
+inurl:".php?id=" intext:"apple" title:login 2015
+inurl:".php?id=" intext:"electronics" title:login 2015
+inurl:".php?id=" intext:"telescopes" title:login 2015
+inurl:".php?id=" intext:"watches" title:login 2015
+inurl:".php?id=" intext:"Drum" title:login 2015
+inurl:".php?id=" intext:"jewelry" title:login 2015
+inurl:".php?id=" intext:"membership" title:login 2015
+inurl:".php?id=" intext:"furniture" title:login 2015
+inurl:".php?id=" intext:"careers" title:login 2015
+inurl:".php?sub_cat=" intext:"equipment"
+inurl:".php?sub_id=" intext:"products" 2015
+inurl:".php?sub_id=" intext:"buy" 2015
+inurl:".php?sub_id=" intext:"event" 2015
+inurl:.php?business_profile= intext:"login" 2015
+inurl:".php?pgID=" intext:"bathroom" 2015
+inurl:".asp?ID=" intext:"housekeeping" 2015
+inurl:".asp?ID=" intext:"boots" site:us 2015
+inurl:".php?ID=" intext:"boots" site:us 2015
+inurl:".php?ID=" intext:"collection" site:us 2015
+inurl:".php?ID=" intext:"customer" site:us 2015
+inurl:".php?ID=" intext:"members" site:us 2015
+inurl:".php?ID=" intext:"join" site:us 2015
+inurl:".php?ID=" intext:"business" site:us 2015
+inurl:".php?ID=" intext:"DVD" site:us 2015
+inurl:".php?ID=" intext:"checkout" site:us 2015
+inurl:".php?ID=" intext:"boutiques" site:us 2015
+inurl:"php?ID=" intext:"login" site:us 2015
+inurl:"php?ID=" intext:"login" site:uk 2015
+inurl:"php?PID=" intext:"product" site:us 2015
+intext:"buy" .php?id= title:"login" 2015
+intext:"product" .php?id= title:login 2015 site:uk
+intext:"clothing" .php?id= title:"login" 2015
+intext:"£99" .php?id= title:"login" 2015
+intext:"shop" .php?id= title:"login" 2015
+inurl:"reviews".php?id= title:shop 2015
+inurl:"articles".php?id= title:login 2015
+inurl:ancillary.asp?ID= title:shop
+inurl:basket.asp?id= title:login
+inurl:buy.asp?bookid= title:login
+inurl:"catalog_item".php?id= title:login
+inurl:List.asp?CatID= title:login 2015
+inurl:product.php?item_id= intext:login 2015
+productDetails.php?idProduct= title:login 2015
+intext:"store" .php?id= title:login 2015
+intext:"men"women" .php?id= title:"login" 2015
+intext:"news"item" .php?id= title:"login" 2015
+intext:"stores" .php?cid= title:"paypal" 2015
+shop/category.asp?catid= title:login 2015
+intext:"customers" .cfm?id= title:login
+intext:"doctor" .php?cid= title:login 2015
+intitle:"cosmetics".php?id= intext:login
+inurl:"category".php?id= intext:login 2015
+inurl:"view_item".php?id= intext:login 2015
+intext:"watches" .php?category= title:login 2015
+intext:"jewelry" .php?item= title:login 2015
+intext:"jewelry" .php?cat= title:login 2015
+intext:"category" .php?cat= title:login 2015
+intext:"services" .php?cat= title:login 2015
+intext:"makeup" .php?cid= title:login 2015
+inurl:/reservations.php?id= title:login 2015
+inurl:/eventdetails.php?*= title:login 2015
+inurl:/*.php?id= title:login 2015
+inurl:/Content.asp?id= title:login 2015
+inurl:/prodotti.php?id= title:login 2015
+inurl:/Details.asp?id= title:shop 2015
+inurl:/category.asp?id= title:shop 2015
+intitle:"fashion" .php?id= intext:login 2015
+intitle:"gift" .php?id= intext:login 2015
+intitle:"market" .php?id= intext:login 2015 site:sg
+intitle:"market" .php?id= intext:login 2015 site:uk
+intitle:"market" .php?id= intext:login 2015 site:us
+intitle:"singapore" .php?id= intext:login 2015
+intitle:"10%" .php?id= intext:login 2015
+intitle:"20%" .php?id= intext:login 2015
+inurl:"info".php?product_info= intext:login
+inurl:"storefront".php?cat= intext:login
+inurl:"payment".php?cat= intext:login
+inurl:"view_author".php?id= intext:login
+inurl:"More_Details".php?id= intext:login
+inurl:"store".php?ItemID= intext:login
+inurl:events/index.php?id= intext:login
+
+Google Dork shopping #2 *(Updated)
+
+
+inurl:".php?cat="+intext:"Paypal"+site:UK
+inurl:".php?cat="+intext:"/Buy Now/"+site:.net
+inurl:".php?cid="+intext:"online+betting"
+inurl:".php?id=" intext:"View cart"
+inurl:".php?id=" intext:"Buy Now"
+inurl:".php?id=" intext:"add to cart"
+inurl:".php?id=" intext:"shopping"
+inurl:".php?id=" intext:"boutique"
+inurl:".php?id=" intext:"/store/"
+inurl:".php?id=" intext:"/shop/"
+inurl:".php?id=" intext:"toys"
+inurl:".php?cid="
+inurl:".php?cid=" intext:"shopping"
+inurl:".php?cid=" intext:"add to cart"
+inurl:".php?cid=" intext:"Buy Now"
+inurl:".php?cid=" intext:"View cart"
+inurl:".php?cid=" intext:"boutique"
+inurl:".php?cid=" intext:"/store/"
+inurl:".php?cid=" intext:"/shop/"
+inurl:".php?cid=" intext:"Toys"
+inurl:".php?cat="
+inurl:".php?cat=" intext:"shopping"
+inurl:".php?cat=" intext:"add to cart"
+inurl:".php?cat=" intext:"Buy Now"
+inurl:".php?cat=" intext:"View cart"
+inurl:".php?cat=" intext:"boutique"
+inurl:".php?cat=" intext:"/store/"
+inurl:".php?cat=" intext:"/shop/"
+inurl:".php?cat=" intext:"Toys"
+inurl:".php?catid="
+inurl:".php?catid=" intext:"View cart"
+inurl:".php?catid=" intext:"Buy Now"
+inurl:".php?catid=" intext:"add to cart"
+inurl:".php?catid=" intext:"shopping"
+inurl:".php?catid=" intext:"boutique"
+inurl:".php?catid=" intext:"/store/"
+inurl:".php?catid=" intext:"/shop/"
+inurl:".php?catid=" intext:"Toys"
+inurl:producera.php?=
+inurl:producera.asp?=
+inurl:producera.cfm?=
+inurl:producera.php?id=
+inurl:producera.asp?id=
+inurl:producera.cfm?id=
+inurl:producera.php?cat=
+inurl:producera.asp?cat=
+inurl:producera.cfm?cat=
+inurl:producera.php?cat=
+inurl:producera.php?kategori=
+inurl:producera.asp?kategori=
+inurl:producera.cfm?kategori=
+inurl:producera.php?tillنmpningar=
+inurl:producera.asp?tillنmpningar=
+inurl:producera.cfm?tillنmpningar=
+inurl:producera.php?kِpa=
+inurl:producera.asp?kِpa=
+inurl:producera.cfm?kِpa=
+inurl:producera.php?bil=
+inurl:producera.asp?bil=
+inurl:producera.cfm?bil=
+inurl:producera.php?Kunder=
+inurl:producera.asp?Kunder=
+inurl:producera.cfm?Kunder=
+inurl:producera.php?betalning=
+inurl:producera.asp?betalning=
+inurl:producera.cfm?betalning=
+inurl:producera.php?butik=
+inurl:producera.asp?butik=
+inurl:producera.cfm?butik=
+inurl:producera.php?Detaljer=
+inurl:producera.asp?Detaljer=
+inurl:producera.cfm?Detaljer=
+inurl:products-detail.php?shop=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?cat=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?shopping=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?OrderID=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?CatID=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?catalogId=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?shopid=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?cat_id=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?view=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?item=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?item_id=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?category=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?item_view=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?prodid=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?id=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?productid=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?prdId=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?cid=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?action=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?order_item=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?view_cat=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?pid=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?subcat_id=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?prodid=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?go=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?catalog_id=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?dept=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?deptid=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?dept_cat=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?dept_id=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?payment=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?pay_item=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?buy=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?buy_id=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?product_item=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?go_cat=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?c=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?q=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?q_shop=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?q_order=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?q_shopping=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?q_buy=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?q_cat=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?q_product=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?q_item=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?shop_new=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?search=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?toplist=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?list_id=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?list_prod=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?list_product=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?list_cat=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?list_category=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?shop_cat=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?shop_prod=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?shop_product=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?shop_view=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?shop_item=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?bookid=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?title=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?action=  intext:"Payment | Method | 
+
+Visa"item
+inurl:products-detail.php?update_item=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?cart_id=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?cartid=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?view_cart=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?idCategory=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?msg=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?aid=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?artid=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?art_id=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?article=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?articleid=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?art_order=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?art_shop=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?shopping_art=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?art_view=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?page=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?pageid=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?page_id=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?page_order=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?page_view=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?item_detail=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?detail=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?details=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?item_details=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?detils_item=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?detail_view=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?detail_id=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?made=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?baby_shop=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?type=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?pdview=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?shopview=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?store=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?store_id=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?storeprod=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?store_cat=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?info=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?info_prod=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?product_info=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?products_info=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?info_item=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?info_order=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?info_shop=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?info_shopping=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?info_buy=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?info_category=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?info_cat=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?cencel=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?order_return=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?order_cencel=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?return=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?payment=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?shop_cencel=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?shopping_cencel=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?shop_return=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?total=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?order_total=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php?shopping_total=  intext:"Payment | Method | 
+
+Visa"
+inurl:products-detail.php??aktion=  intext:"Payment | Method | 
+
+Visa"shopview
+inurl:products-detail.php?action=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?linkid=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?token=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?CodiInfo=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?decl_id=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?idr=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?idf=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?idm=  intext:"Payment | Method | Visa"
+inurl:products-detail.php?getid=  intext:"Payment | Method | Visa"
+bitcoin .php?id=  intext:"Payment | Method | Visa"
+bitcoin .php?coID=  intext:"Payment | Method | Visa"
+bitcoin .php?num=  intext:"Payment | Method | Visa"
+bitcoin .php?avd=  intext:"Payment | Method | Visa"
+bitcoin .php?category=  intext:"Payment | Method | Visa"
+bitcoin .php?file=  intext:"Payment | Method | Visa"
+bitcoin .php?cat=  intext:"Payment | Method | Visa"
+bitcoin .php?include=  intext:"Payment | Method | Visa"
+bitcoin .php?pageid=  intext:"Payment | Method | Visa"
+bitcoin .php?page_id=  intext:"Payment | Method | Visa"
+bitcoin .php?param=  intext:"Payment | Method | Visa"
+bitcoin .php?panel=  intext:"Payment | Method | Visa"
+bitcoin .php?sec=  intext:"Payment | Method | Visa"
+bitcoin .php?do=part&id=  intext:"Payment | Method | Visa"
+bitcoin .php?item_id=  intext:"Payment | Method | Visa"
+bitcoin .php?client=  intext:"Payment | Method | Visa"
+bitcoin .php?co_id=  intext:"Payment | Method | Visa"
+bitcoin .php?language=  intext:"Payment | Method | Visa"
+bitcoin .php?currency=  intext:"Payment | Method | Visa"
+bitcoin .php?checkout=  intext:"Payment | Method | Visa"
+bitcoin .php?cid=  intext:"Payment | Method | Visa"
+bitcoin .php?products_name=  intext:"Payment | Method | Visa"
+bitcoin .php?product_id=  intext:"Payment | Method | Visa"
+bitcoin .php?step=  intext:"Payment | Method | Visa"
+bitcoin .php?topicid=  intext:"Payment | Method | Visa"
+bitcoin .php?topic_id=  intext:"Payment | Method | Visa"
+bitcoin .php?id_category=  intext:"Payment | Method | Visa"
+bitcoin .php?tid=  intext:"Payment | Method | Visa"
+bitcoin .php?fid=  intext:"Payment | Method | Visa"
+ukash.php?id=  intext:"Payment | Method | Visa"
+ukash.php?coID=  intext:"Payment | Method | Visa"
+ukash.php?num=  intext:"Payment | Method | Visa"
+ukash.php?avd=  intext:"Payment | Method | Visa"
+ukash.php?category=  intext:"Payment | Method | Visa"
+ukash.php?file=  intext:"Payment | Method | Visa"
+ukash.php?cat=  intext:"Payment | Method | Visa"
+ukash.php?include=  intext:"Payment | Method | Visa"
+ukash.php?pageid=  intext:"Payment | Method | Visa"
+ukash.php?page_id=  intext:"Payment | Method | Visa"
+ukash.php?param=  intext:"Payment | Method | Visa"
+ukash.php?panel=  intext:"Payment | Method | Visa"
+ukash.php?sec=  intext:"Payment | Method | Visa"
+ukash.php?do=part&id=  intext:"Payment | Method | Visa"
+ukash.php?item_id=  intext:"Payment | Method | Visa"
+ukash.php?client=  intext:"Payment | Method | Visa"
+ukash.php?co_id=  intext:"Payment | Method | Visa"
+ukash.php?language=  intext:"Payment | Method | Visa"
+ukash.php?currency=  intext:"Payment | Method | Visa"
+ukash.php?checkout=  intext:"Payment | Method | Visa"
+ukash.php?cid=  intext:"Payment | Method | Visa"
+ukash.php?products_name=  intext:"Payment | Method | Visa"
+ukash.php?product_id=  intext:"Payment | Method | Visa"
+ukash.php?step=  intext:"Payment | Method | Visa"
+ukash.php?topicid=  intext:"Payment | Method | Visa"
+ukash.php?topic_id=  intext:"Payment | Method | Visa"
+ukash.php?id_category=  intext:"Payment | Method | Visa"
+ukash.php?tid=  intext:"Payment | Method | Visa"
+ukash.php?fid=  intext:"Payment | Method | Visa"
+paysafecard .php?id=  intext:"Payment | Method | Visa"
+paysafecard .php?coID=  intext:"Payment | Method | Visa"
+paysafecard .php?num=  intext:"Payment | Method | Visa"
+paysafecard .php?avd=  intext:"Payment | Method | Visa"
+paysafecard .php?category=  intext:"Payment | Method | Visa"
+paysafecard .php?file=  intext:"Payment | Method | Visa"
+paysafecard .php?cat=  intext:"Payment | Method | Visa"
+paysafecard .php?include=  intext:"Payment | Method | Visa"
+paysafecard .php?pageid=  intext:"Payment | Method | Visa"
+paysafecard .php?page_id=  intext:"Payment | Method | Visa"
+paysafecard .php?param=  intext:"Payment | Method | Visa"
+paysafecard .php?panel=  intext:"Payment | Method | Visa"
+paysafecard .php?sec=  intext:"Payment | Method | Visa"
+paysafecard .php?do=part&id=  intext:"Payment | Method | Visa"
+paysafecard .php?item_id=  intext:"Payment | Method | Visa"
+paysafecard .php?client=  intext:"Payment | Method | Visa"
+paysafecard .php?co_id=  intext:"Payment | Method | Visa"
+paysafecard .php?language=  intext:"Payment | Method | Visa"
+paysafecard .php?currency=  intext:"Payment | Method | Visa"
+paysafecard .php?checkout=  intext:"Payment | Method | Visa"
+paysafecard .php?cid=  intext:"Payment | Method | Visa"
+paysafecard .php?products_name=  intext:"Payment | Method | Visa"
+paysafecard .php?product_id=  intext:"Payment | Method | Visa"
+paysafecard .php?step=  intext:"Payment | Method | Visa"
+paysafecard .php?topicid=  intext:"Payment | Method | Visa"
+paysafecard .php?topic_id=  intext:"Payment | Method | Visa"
+paysafecard .php?id_category=  intext:"Payment | Method | Visa"
+paysafecard .php?tid=  intext:"Payment | Method | Visa"
+paysafecard .php?fid=  intext:"Payment | Method | Visa"
+paypal .php?id=  intext:"Payment | Method | Visa"
+paypal .php?coID=  intext:"Payment | Method | Visa"
+paypal .php?num=  intext:"Payment | Method | Visa"
+paypal .php?avd=  intext:"Payment | Method | Visa"
+paypal .php?category=  intext:"Payment | Method | Visa"
+paypal .php?file=  intext:"Payment | Method | Visa"
+paypal .php?cat=  intext:"Payment | Method | Visa"
+paypal .php?include=  intext:"Payment | Method | Visa"
+paypal .php?pageid=  intext:"Payment | Method | Visa"
+paypal .php?page_id=  intext:"Payment | Method | Visa"
+paypal .php?param=  intext:"Payment | Method | Visa"
+paypal .php?panel=  intext:"Payment | Method | Visa"
+paypal .php?sec=  intext:"Payment | Method | Visa"
+paypal .php?do=part&id=  intext:"Payment | Method | Visa"
+paypal .php?item_id=  intext:"Payment | Method | Visa"
+paypal .php?client=  intext:"Payment | Method | Visa"
+paypal .php?co_id=  intext:"Payment | Method | Visa"
+paypal .php?language=  intext:"Payment | Method | Visa"
+paypal .php?currency=  intext:"Payment | Method | Visa"
+paypal .php?checkout=  intext:"Payment | Method | Visa"
+paypal .php?cid=  intext:"Payment | Method | Visa"
+paypal .php?products_name=  intext:"Payment | Method | Visa"
+paypal .php?product_id=  intext:"Payment | Method | Visa"
+paypal .php?step=  intext:"Payment | Method | Visa"
+paypal .php?topicid=  intext:"Payment | Method | Visa"
+paypal .php?topic_id=  intext:"Payment | Method | Visa"
+paypal .php?id_category=  intext:"Payment | Method | Visa"
+paypal .php?tid=  intext:"Payment | Method | Visa"
+paypal .php?fid=  intext:"Payment | Method | Visa"
+money book .php?id=  intext:"Payment | Method | Visa"
+money book .php?coID=  intext:"Payment | Method | Visa"
+money book .php?num=  intext:"Payment | Method | Visa"
+money book .php?avd=  intext:"Payment | Method | Visa"
+money book .php?category=  intext:"Payment | Method | Visa"
+money book .php?file=  intext:"Payment | Method | Visa"
+money book .php?cat=  intext:"Payment | Method | Visa"
+money book .php?include=  intext:"Payment | Method | Visa"
+money book .php?pageid=  intext:"Payment | Method | Visa"
+money book .php?page_id=  intext:"Payment | Method | Visa"
+money book .php?param=  intext:"Payment | Method | Visa"
+money book .php?panel=  intext:"Payment | Method | Visa"
+money book .php?sec=  intext:"Payment | Method | Visa"
+money book .php?do=part&id=  intext:"Payment | Method | Visa"
+money book .php?item_id=  intext:"Payment | Method | Visa"
+money book .php?client=  intext:"Payment | Method | Visa"
+money book .php?co_id=  intext:"Payment | Method | Visa"
+money book .php?language=  intext:"Payment | Method | Visa"
+money book .php?currency=  intext:"Payment | Method | Visa"
+money book .php?checkout=  intext:"Payment | Method | Visa"
+money book .php?cid=  intext:"Payment | Method | Visa"
+money book .php?products_name=  intext:"Payment | Method | Visa"
+money book .php?product_id=  intext:"Payment | Method | Visa"
+money book .php?step=  intext:"Payment | Method | Visa"
+money book .php?topicid=  intext:"Payment | Method | Visa"
+money book .php?topic_id=  intext:"Payment | Method | Visa"
+money book .php?id_category=  intext:"Payment | Method | Visa"
+money book .php?tid=  intext:"Payment | Method | Visa"
+money book .php?fid=  intext:"Payment | Method | Visa"
+kreditkarte .php?id=  intext:"Payment | Method | Visa"
+kreditkarte .php?coID=  intext:"Payment | Method | Visa"
+kreditkarte .php?num=  intext:"Payment | Method | Visa"
+kreditkarte .php?avd=  intext:"Payment | Method | Visa"
+kreditkarte .php?category=  intext:"Payment | Method | Visa"
+kreditkarte .php?file=  intext:"Payment | Method | Visa"
+kreditkarte .php?cat=  intext:"Payment | Method | Visa"
+kreditkarte .php?include=  intext:"Payment | Method | Visa"
+kreditkarte .php?pageid=  intext:"Payment | Method | Visa"
+kreditkarte .php?page_id=  intext:"Payment | Method | Visa"
+kreditkarte .php?param=  intext:"Payment | Method | Visa"
+kreditkarte .php?panel=  intext:"Payment | Method | Visa"
+kreditkarte .php?sec=  intext:"Payment | Method | Visa"
+kreditkarte .php?do=part&id=  intext:"Payment | Method | Visa"
+kreditkarte .php?item_id=  intext:"Payment | Method | Visa"
+kreditkarte .php?client=  intext:"Payment | Method | Visa"
+kreditkarte .php?co_id=  intext:"Payment | Method | Visa"
+kreditkarte .php?language=  intext:"Payment | Method | Visa"
+kreditkarte .php?currency=  intext:"Payment | Method | Visa"
+kreditkarte .php?checkout=  intext:"Payment | Method | Visa"
+kreditkarte .php?cid=  intext:"Payment | Method | Visa"
+kreditkarte .php?products_name=  intext:"Payment | Method | Visa"
+kreditkarte .php?product_id=  intext:"Payment | Method | Visa"
+kreditkarte .php?step=  intext:"Payment | Method | Visa"
+kreditkarte .php?topicid=  intext:"Payment | Method | Visa"
+kreditkarte .php?topic_id=  intext:"Payment | Method | Visa"
+kreditkarte .php?id_category=  intext:"Payment | Method | Visa"
+kreditkarte .php?tid=  intext:"Payment | Method | Visa"
+kreditkarte .php?fid=  intext:"Payment | Method | Visa"
+sex .php?id=  intext:"Payment | Method | Visa"
+sex .php?coID=  intext:"Payment | Method | Visa"
+sex .php?num=  intext:"Payment | Method | Visa"
+sex .php?avd=  intext:"Payment | Method | Visa"
+sex .php?category=  intext:"Payment | Method | Visa"
+sex .php?file=  intext:"Payment | Method | Visa"
+sex .php?cat=  intext:"Payment | Method | Visa"
+sex .php?include=  intext:"Payment | Method | Visa"
+sex .php?pageid=  intext:"Payment | Method | Visa"
+sex .php?page_id=  intext:"Payment | Method | Visa"
+sex .php?param=  intext:"Payment | Method | Visa"
+sex .php?panel=  intext:"Payment | Method | Visa"
+sex .php?sec=  intext:"Payment | Method | Visa"
+sex .php?do=part&id=  intext:"Payment | Method | Visa"
+sex .php?item_id=  intext:"Payment | Method | Visa"
+sex .php?client=  intext:"Payment | Method | Visa"
+sex .php?co_id=  intext:"Payment | Method | Visa"
+sex .php?language=  intext:"Payment | Method | Visa"
+sex .php?currency=  intext:"Payment | Method | Visa"
+sex .php?checkout=  intext:"Payment | Method | Visa"
+sex .php?cid=  intext:"Payment | Method | Visa"
+sex .php?products_name=  intext:"Payment | Method | Visa"
+sex .php?product_id=  intext:"Payment | Method | Visa"
+sex .php?step=  intext:"Payment | Method | Visa"
+sex .php?topicid=  intext:"Payment | Method | Visa"
+sex .php?topic_id=  intext:"Payment | Method | Visa"
+sex .php?id_category=  intext:"Payment | Method | Visa"
+sex .php?tid=  intext:"Payment | Method | Visa"
+sex .php?fid=  intext:"Payment | Method | Visa"
+erotic .php?id=  intext:"Payment | Method | Visa"
+erotic .php?coID=  intext:"Payment | Method | Visa"
+erotic .php?num=  intext:"Payment | Method | Visa"
+erotic .php?avd=  intext:"Payment | Method | Visa"
+erotic .php?category=  intext:"Payment | Method | Visa"
+erotic .php?file=  intext:"Payment | Method | Visa"
+erotic .php?cat=  intext:"Payment | Method | Visa"
+erotic .php?include=  intext:"Payment | Method | Visa"
+erotic .php?pageid=  intext:"Payment | Method | Visa"
+erotic .php?page_id=  intext:"Payment | Method | Visa"
+erotic .php?param=  intext:"Payment | Method | Visa"
+erotic .php?panel=  intext:"Payment | Method | Visa"
+erotic .php?sec=  intext:"Payment | Method | Visa"
+erotic .php?do=part&id=  intext:"Payment | Method | Visa"
+erotic .php?item_id=  intext:"Payment | Method | Visa"
+erotic .php?client=  intext:"Payment | Method | Visa"
+erotic .php?co_id=  intext:"Payment | Method | Visa"
+erotic .php?language=  intext:"Payment | Method | Visa"
+erotic .php?currency=  intext:"Payment | Method | Visa"
+erotic .php?checkout=  intext:"Payment | Method | Visa"
+erotic .php?cid=  intext:"Payment | Method | Visa"
+erotic .php?products_name=  intext:"Payment | Method | Visa"
+erotic .php?product_id=  intext:"Payment | Method | Visa"
+erotic .php?step=  intext:"Payment | Method | Visa"
+erotic .php?topicid=  intext:"Payment | Method | Visa"
+erotic .php?topic_id=  intext:"Payment | Method | Visa"
+erotic .php?id_category=  intext:"Payment | Method | Visa"
+erotic .php?tid=  intext:"Payment | Method | Visa"
+erotic .php?fid=  intext:"Payment | Method | Visa"
+erotik .php?id=  intext:"Payment | Method | Visa"
+erotik .php?coID=  intext:"Payment | Method | Visa"
+erotik .php?num=  intext:"Payment | Method | Visa"
+erotik .php?avd=  intext:"Payment | Method | Visa"
+erotik .php?category=  intext:"Payment | Method | Visa"
+erotik .php?file=  intext:"Payment | Method | Visa"
+erotik .php?cat=  intext:"Payment | Method | Visa"
+erotik .php?include=  intext:"Payment | Method | Visa"
+erotik .php?pageid=  intext:"Payment | Method | Visa"
+erotik .php?page_id=  intext:"Payment | Method | Visa"
+erotik .php?param=  intext:"Payment | Method | Visa"
+erotik .php?panel=  intext:"Payment | Method | Visa"
+erotik .php?sec=  intext:"Payment | Method | Visa"
+erotik .php?do=part&id=  intext:"Payment | Method | Visa"
+erotik .php?item_id=  intext:"Payment | Method | Visa"
+erotik .php?client=  intext:"Payment | Method | Visa"
+erotik .php?co_id=  intext:"Payment | Method | Visa"
+erotik .php?language=  intext:"Payment | Method | Visa"
+erotik .php?currency=  intext:"Payment | Method | Visa"
+erotik .php?checkout=  intext:"Payment | Method | Visa"
+erotik .php?cid=  intext:"Payment | Method | Visa"
+erotik .php?products_name=  intext:"Payment | Method | Visa"
+erotik .php?product_id=  intext:"Payment | Method | Visa"
+erotik .php?step=  intext:"Payment | Method | Visa"
+erotik .php?topicid=  intext:"Payment | Method | Visa"
+erotik .php?topic_id=  intext:"Payment | Method | Visa"
+erotik .php?id_category=  intext:"Payment | Method | Visa"
+erotik .php?tid=  intext:"Payment | Method | Visa"
+erotik .php?fid=  intext:"Payment | Method | Visa"
